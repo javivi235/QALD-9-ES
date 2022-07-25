@@ -42,6 +42,10 @@
                 {
                     "language": "ba",
                     "string": "Ниндей вакыт поясы Солт-Лейк-Ситила"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es la zona horaria de Salt Lake City?"
                 }
             ],
             "query": {
@@ -102,6 +106,10 @@
                 {
                     "language": "ba",
                     "string": "Кем Цезарьзы ултергэн?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién mató a César?"
                 }
             ],
             "query": {
@@ -244,6 +252,10 @@
                 {
                     "language": "ba",
                     "string": "Германияла иң бейек тау?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es la montaña más alta de Alemania?"
                 }
             ],
             "query": {
@@ -312,6 +324,10 @@
                 {
                     "language": "ba",
                     "string": "Ниндей американский президент икенсе хугыш булган вакытта Вьетнамда?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué presidentes estadounidenses estuvieron en el cargo durante la guerra de Vietnam?"
                 }
             ],
             "query": {
@@ -392,6 +408,10 @@
                 {
                     "language": "ba",
                     "string": "Штат губернаторы, Бутч Оттер ниндәй була?"
+                },
+                {
+                    "language": "es",
+                    "question": "Butch Otter es el gobernador de qué estado de los EE.UU.?"
                 }
             ],
             "query": {
@@ -461,6 +481,10 @@
                 {
                     "language": "ba",
                     "string": "Михаэль Фелпс олимпия уйындарында алтын миҙал 2008 йылда ниндәй яулаусы?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántas medallas de oro ganó Michael Phelps en las Olimpiadas de 2008?"
                 }
             ],
             "query": {
@@ -534,6 +558,10 @@
                 {
                     "language": "ba",
                     "string": "Тыуған көнөң менән рейчел стивенс актер ҙа ниндәй?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué artistas nacieron en la misma fecha que Rachel Stevens?"
                 }
             ],
             "query": {
@@ -622,6 +650,10 @@
                 {
                     "language": "ba",
                     "string": "Герберт Френк професия ниндәй?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es la profesión de Frank Herbert?"
                 }
             ],
             "query": {
@@ -687,6 +719,10 @@
                 {
                     "language": "ba",
                     "string": "Тайко япон музыка ҡоралы булып бармы?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Taiko es algún tipo de instrumento musical japonés?"
                 }
             ],
             "query": {
@@ -747,6 +783,10 @@
                 {
                     "language": "ba",
                     "string": "Порт стадионында футбол клубы өй урындар күпме?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántos asientos tiene el estadio del FC Porto?"
                 }
             ],
             "query": {
@@ -816,6 +856,10 @@
                 {
                     "language": "lt",
                     "string": "Kurioje nuolatinių skrydžių programoje yra daugiausia oro linijų?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué programa de viajero frecuente tiene la mayoría de las aerolíneas?"
                 }
             ],
             "query": {
@@ -880,6 +924,10 @@
                 {
                     "language": "be",
                     "string": "У якой еўрапейскай краіне канстытуцыйная манархія?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué países europeos tienen una monarquía constitucional?"
                 }
             ],
             "query": {
@@ -974,6 +1022,10 @@
                 {
                     "language": "ba",
                     "string": "Ҡайһы илдәрҙә ике мәмерйәнән дә күберәк урындар бар?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué países tienen lugares con más de dos cuevas?"
                 }
             ],
             "query": {
@@ -1294,6 +1346,10 @@
                 {
                     "language": "lt",
                     "string": "Kokie oro uostai yra JAV Kalifornijos valstijoje?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué aeropuertos se encuentran en California, EE.UU.?"
                 }
             ],
             "query": {
@@ -1876,6 +1932,10 @@
                 {
                     "language": "lt",
                     "string": "Kokie yra San Francisko slapyvardžiai?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuáles son los apodos de San Francisco?"
                 }
             ],
             "query": {
@@ -1937,6 +1997,10 @@
                 {
                     "language": "lt",
                     "string": "Koks vardas Angela Merkel buvo suteikta gimus?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es el nombre de nacimiento de Angela Merkel?"
                 }
             ],
             "query": {
@@ -1994,6 +2058,10 @@
                 {
                     "language": "ba",
                     "string": "Берлин ҡалаһының мэры кем?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién es el alcalde de Berlín?"
                 }
             ],
             "query": {
@@ -2047,6 +2115,10 @@
                 {
                     "language": "lt",
                     "string": "Kurios Europos Sąjungos šalys pradėjo naudoti eurą?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué países de la Unión Europea adoptaron el euro?"
                 }
             ],
             "query": {
@@ -2481,6 +2553,10 @@
                 {
                     "language": "lt",
                     "string": "Kokią programinę įrangą išleido „Mean Hamster Software“?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué software ha sido publicado por Mean Hamster Software?"
                 }
             ],
             "query": {
@@ -2541,6 +2617,10 @@
                 {
                     "language": "ba",
                     "string": "Билл гейтс тыуған илде ниндәй?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿En qué país nació Bill Gates?"
                 }
             ],
             "query": {
@@ -2601,6 +2681,10 @@
                 {
                     "language": "lt",
                     "string": "Kiek anūkų turėjo Jacques'as Yves'as Kusto?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántos nietos tenía Jacques Cousteau?"
                 }
             ],
             "query": {
@@ -2658,6 +2742,10 @@
                 {
                     "language": "lt",
                     "string": "Išvardykite visus profesionalius riedlentininkus Švedijoje."
+                },
+                {
+                    "language": "es",
+                    "question": "Dame a todos los patinetas profesionales de Suecia."
                 }
             ],
             "query": {
@@ -2707,6 +2795,10 @@
                 {
                     "language": "lt",
                     "string": "Kuris iš Jungtinės Karalystės monarchų buvo vedęs vokietę?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué monarcas del Reino Unido estaban casados con un alemán?"
                 }
             ],
             "query": {
@@ -2756,6 +2848,10 @@
                 {
                     "language": "lt",
                     "string": "Argentinos filmų sąrašas"
+                },
+                {
+                    "language": "es",
+                    "question": "Dame todas las películas argentinas."
                 }
             ],
             "query": {
@@ -13086,6 +13182,10 @@
                 {
                     "language": "ba",
                     "string": "Майкл Джек он нисек улгэн? "
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cómo murió Michael Jackson?"
                 }
             ],
             "query": {
@@ -13147,6 +13247,10 @@
                 {
                     "language": "ba",
                     "string": "Боьэхенэн дэ хонорак ниндэй США штаты ойошторолган? "
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué estado de los EE.UU. ha sido admitido más tarde?"
                 }
             ],
             "query": {
@@ -13211,6 +13315,10 @@
                 {
                     "language": "ba",
                     "string": "Купаяклылыр ниндэй класка инэ? "
+                },
+                {
+                    "language": "es",
+                    "question": "¿A qué clases pertenece el Millepede?"
                 }
             ],
             "query": {
@@ -13272,6 +13380,10 @@
                 {
                     "language": "ba",
                     "string": "Форбс нэшриэтенен ой бите адрес? "
+                },
+                {
+                    "language": "es",
+                    "question": "Dame la página de Forbes."
                 }
             ],
             "query": {
@@ -13321,6 +13433,10 @@
                 {
                     "language": "ba",
                     "string": " А анда Палмерзын Ире кем? "
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién es el marido de Amanda Palmer?"
                 }
             ],
             "query": {
@@ -13382,6 +13498,10 @@
                 {
                     "language": "ba",
                     "string": "Галилей дингезендэге дауыл картинахынын художницы кем? "
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién pintó La Tormenta en el Mar de Galilea?"
                 }
             ],
             "query": {
@@ -13446,6 +13566,10 @@
                 {
                     "language": "ba",
                     "string": "Карокаруманын ин бейек ноктэхе? "
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es el lugar más alto de Karakoram?"
                 }
             ],
             "query": {
@@ -13506,6 +13630,10 @@
                 {
                     "language": "ba",
                     "string": "Финляндия касан Евросоюза ккшылды? "
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuándo se unió Finlandia a la UE?"
                 }
             ],
             "query": {
@@ -13571,6 +13699,10 @@
                 {
                     "language": "ba",
                     "string": "Зур шартлау теорияхында ниндэй актерзар уцнаны? "
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué actores interpretan en Big Bang Theory?"
                 }
             ],
             "query": {
@@ -13701,6 +13833,10 @@
                 {
                     "language": "ba",
                     "string": "Ниндэй укымышлы кеше хэбэрлэр технология олкэхендэ Оскар алды? "
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué científico informático ganó un Oscar?"
                 }
             ],
             "query": {
@@ -13758,6 +13894,10 @@
                 {
                     "language": "ba",
                     "string": "Гарри Поттер кем яҙған?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién escribió Harry Potter?"
                 }
             ],
             "query": {
@@ -13834,6 +13974,10 @@
                 {
                     "language": "fr",
                     "string": "Quels sont tous les écrivains Prix Nobel de Littérature ?"
+                },
+                {
+                    "language": "es",
+                    "question": "Dame a todos los escritores que ganaron el Premio Nobel de Literatura."
                 }
             ],
             "query": {
@@ -14070,6 +14214,10 @@
                 {
                     "language": "lt",
                     "string": "Išvardykite visus anglų aktorius, vaidinusius filme Meilės ilgesys"
+                },
+                {
+                    "language": "es",
+                    "question": "Dame actores ingleses protagonizados por Lovesick."
                 }
             ],
             "query": {
@@ -14148,6 +14296,10 @@
                 {
                     "language": "ba",
                     "string": "Багладты тагы нисек атайзар"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es el apodo de Bagdad?"
                 }
             ],
             "query": {
@@ -14221,6 +14373,10 @@
                 {
                     "language": "ba",
                     "string": "Президент Монтенегро кайхы калала тыуган"
+                },
+                {
+                    "language": "es",
+                    "question": "¿En qué ciudad nació el presidente de Montenegro?"
                 }
             ],
             "query": {
@@ -14303,6 +14459,10 @@
                 {
                     "language": "ba",
                     "string": "Ин куп туплпюанган халыклы США да ниндэй штат"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué estado estadounidense tiene la mayor densidad de población?"
                 }
             ],
             "query": {
@@ -14372,6 +14532,10 @@
                 {
                     "language": "ba",
                     "string": "Кытай за ин озон йылга ниндэй"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es el río más largo de China?"
                 }
             ],
             "query": {
@@ -14433,6 +14597,10 @@
                 {
                     "language": "ba",
                     "string": "Берлин калахы нын коды ниндэй"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es el código de área de Berlín?"
                 }
             ],
             "query": {
@@ -14505,6 +14673,10 @@
                 {
                     "language": "ba",
                     "string": "Лиги плюща университеты нисэ укымышлы кеше тамамлаган"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántos científicos se graduaron de una universidad de la Ivy League?"
                 }
             ],
             "query": {
@@ -14570,6 +14742,10 @@
                 {
                     "language": "ba",
                     "string": "Австралия ла ниндэй хонэри серферзар туган? "
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué surfistas profesionales nacieron en Australia?"
                 }
             ],
             "query": {
@@ -14627,6 +14803,10 @@
                 {
                     "language": "ba",
                     "string": "Бөтә һанап партия голланд"
+                },
+                {
+                    "language": "es",
+                    "question": "Dame todas las fiestas holandesas."
                 }
             ],
             "query": {
@@ -14825,6 +15005,10 @@
                 {
                     "language": "ba",
                     "string": "Марс күпме юлдаш булһаң"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántas lunas tiene Marte?"
                 }
             ],
             "query": {
@@ -14894,6 +15078,10 @@
                 {
                     "language": "ba",
                     "string": "Уның ысын исемен, ниндәй Бэтмен"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es el verdadero nombre de Batman?"
                 }
             ],
             "query": {
@@ -14951,6 +15139,10 @@
                 {
                     "language": "be",
                     "string": "Чым знакаміты Ілан Маск"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Por qué es famoso Elon Musk?"
                 }
             ],
             "query": {
@@ -15008,6 +15200,10 @@
                 {
                     "language": "ba",
                     "string": "Кем булдыра Викиликс"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién es el autor de WikiLeaks?"
                 }
             ],
             "query": {
@@ -15072,6 +15268,10 @@
                 {
                     "language": "ba",
                     "string": "Аҡш штаты губернаторы ниндәй булырға парнелл шон"
+                },
+                {
+                    "language": "es",
+                    "question": "Sean Parnell fue el gobernador de qué estado de los EE.UU.?"
                 }
             ],
             "query": {
@@ -15137,6 +15337,10 @@
                 {
                     "language": "ba",
                     "string": "Күпме йылда Ford T сығарыу Model"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántos años se fabricó el Ford Model T?"
                 }
             ],
             "query": {
@@ -15202,6 +15406,10 @@
                 {
                     "language": "ba",
                     "string": "Карло Джулиани ҡасан атырға була."
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuándo le dispararon a Carlo Giuliani?"
                 }
             ],
             "query": {
@@ -15267,6 +15475,10 @@
                 {
                     "language": "ba",
                     "string": "Юҡҡа бөтә хайуан тип атала."
+                },
+                {
+                    "language": "es",
+                    "question": "Dame todos los animales que están extintos."
                 }
             ],
             "query": {
@@ -17259,6 +17471,10 @@
                 {
                     "language": "fr",
                     "string": "Qui était l'épouse du président américain Lincoln ?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién era la esposa del presidente Lincoln?"
                 }
             ],
             "query": {
@@ -17324,6 +17540,10 @@
                 {
                     "language": "ba",
                     "string": "Бертрана Расселдың нисә миҙалы бар?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántos premios tiene Bertrand Russell?"
                 }
             ],
             "query": {
@@ -17381,6 +17601,10 @@
                 {
                     "language": "be",
                     "string": "Ці з'яляецца  Памэла Андэрсан веганам? "
+                },
+                {
+                    "language": "es",
+                    "question": "¿Pamela Anderson es vegana?"
                 }
             ],
             "query": {
@@ -17429,6 +17653,10 @@
                 {
                     "language": "lt",
                     "string": "Kokie zondai buvo išsiūsti į saules orbitą?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué sondas espaciales fueron enviadas a órbita alrededor del sol?"
                 }
             ],
             "query": {
@@ -17581,6 +17809,10 @@
                 {
                     "language": "ba",
                     "string": "Ниндәй немец ҡалаларында 25000 кеше йәшәй?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué ciudades alemanas tienen más de 250000 habitantes?"
                 }
             ],
             "query": {
@@ -17659,6 +17891,10 @@
                 {
                     "language": "ba",
                     "string": "Роберт Кеннединың ҡыҙың ире кем?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Con quién está casada la hija de Robert Kennedy?"
                 }
             ],
             "query": {
@@ -17749,6 +17985,10 @@
                 {
                     "language": "ba",
                     "string": "Амстердам ҡалаһындағы ирекле университет студенттарының күпме уҡыуы?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántos estudiantes tiene la Universidad Libre de Ámsterdam?"
                 }
             ],
             "query": {
@@ -17822,6 +18062,10 @@
                 {
                     "language": "ba",
                     "string": "IBM ниндәй табыш алына?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuáles son los ingresos de IBM?"
                 }
             ],
             "query": {
@@ -17883,6 +18127,10 @@
                 {
                     "language": "ba",
                     "string": "Джемс Бонд тураһында күпме кинолар бар?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántas películas de James Bond existen?"
                 }
             ],
             "query": {
@@ -17940,6 +18188,10 @@
                 {
                     "language": "lt",
                     "string": "Kas įgarsina Bartą Simpsoną?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién hace la voz de Bart Simpson?"
                 }
             ],
             "query": {
@@ -17997,6 +18249,10 @@
                 {
                     "language": "ba",
                     "string": "Том Хэнксты ҡатыны кем?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Con quién estaba casado Tom Hanks?"
                 }
             ],
             "query": {
@@ -18050,6 +18306,10 @@
                 {
                     "language": "ba",
                     "string": "Ниндәй илдә Йәнәсәй аша аға?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿A través de qué países fluye el río Yenisei?"
                 }
             ],
             "query": {
@@ -18107,6 +18367,10 @@
                 {
                     "language": "ba",
                     "string": "Бөтә һанап автомобилдең маркаһын, Германияла етештерелгән?"
+                },
+                {
+                    "language": "es",
+                    "question": "Dame todos los coches que se producen en Alemania."
                 }
             ],
             "query": {
@@ -19175,6 +19439,10 @@
                 {
                     "language": "ba",
                     "string": "Майкл джексон ҡасан вафат була?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuándo murió Michael Jackson?"
                 }
             ],
             "query": {
@@ -19244,6 +19512,10 @@
                 {
                     "language": "ba",
                     "string": "Африканың иң бейек вулкан?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es el volcán más alto de África?"
                 }
             ],
             "query": {
@@ -19304,6 +19576,10 @@
                 {
                     "language": "lt",
                     "string": "Kuris poetas yra parašęs daugiausiai knygų?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué poeta escribió más libros?"
                 }
             ],
             "query": {
@@ -19364,6 +19640,10 @@
                 {
                     "language": "lt",
                     "string": "Išvardykite visus draudimo eros gangsterius."
+                },
+                {
+                    "language": "es",
+                    "question": "Dame a todos los gángsteres de la era de la prohibición."
                 }
             ],
             "query": {
@@ -19646,6 +19926,10 @@
                 {
                     "language": "lt",
                     "string": "Išvardykite visus erdvėlaivius, kurie skrido į Marsą"
+                },
+                {
+                    "language": "es",
+                    "question": "Dame todas las naves espaciales que volaron a Marte."
                 }
             ],
             "query": {
@@ -19756,6 +20040,10 @@
                 {
                     "language": "lt",
                     "string": "Išvardykite visus čekų filmus"
+                },
+                {
+                    "language": "es",
+                    "question": "Muéstrame todas las películas checas."
                 }
             ],
             "query": {
@@ -20236,6 +20524,10 @@
                 {
                     "language": "lt",
                     "string": "Duok man visus Kinijos astronautus."
+                },
+                {
+                    "language": "es",
+                    "question": "Dame todos los taikonauts."
                 }
             ],
             "query": {
@@ -20332,6 +20624,10 @@
                 {
                     "language": "lt",
                     "string": "Kuriose šalyse yra daugiau nei dešimt ugnikalnių?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué países tienen más de diez volcanes?"
                 }
             ],
             "query": {
@@ -20518,6 +20814,10 @@
                 {
                     "language": "fr",
                     "string": "Donnez-moi tous les films de Tom Cruise."
+                },
+                {
+                    "language": "es",
+                    "question": "Dame todas las películas con Tom Cruise."
                 }
             ],
             "query": {
@@ -20824,6 +21124,10 @@
                 {
                     "language": "ba",
                     "string": "Автор дракула ҡасан вафат була?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuándo murió el creador de Drácula?"
                 }
             ],
             "query": {
@@ -20889,6 +21193,10 @@
                 {
                     "language": "ba",
                     "string": "Англоязыктын википедиясын кем уйлап тапкан?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién creó Wikipedia en inglés?"
                 }
             ],
             "query": {
@@ -20959,6 +21267,10 @@
                 {
                     "language": "ba",
                     "string": "Германия канцлеранын хатын кыздарын айт мина?"
+                },
+                {
+                    "language": "es",
+                    "question": "Dame a todas las cancilleras alemanas."
                 }
             ],
             "query": {
@@ -21019,6 +21331,10 @@
                 {
                     "language": "lt",
                     "string": "Kam priklauso Aldi?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién es el dueño de Aldi?"
                 }
             ],
             "query": {
@@ -21080,6 +21396,10 @@
                 {
                     "language": "ba",
                     "string": "Ниндай китаптар язган Даниил Стил?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué libros fue escrito por Danielle Steel?"
                 }
             ],
             "query": {
@@ -21458,6 +21778,10 @@
                 {
                     "language": "lt",
                     "string": "Kam padarė įtaką Sokratas?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿A quién influyó Sócrates?"
                 }
             ],
             "query": {
@@ -21734,6 +22058,10 @@
                 {
                     "language": "lt",
                     "string": "Kokio gylio yra Chiemsee ežeras?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué tan profundo es el lago Chiemsee?"
                 }
             ],
             "query": {
@@ -21811,6 +22139,10 @@
                 {
                     "language": "ba",
                     "string": "Аэрокосмический хам медицина олкасен ниндай компаниялар алып бара?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué empresas trabajan tanto en la industria aeroespacial como en la medicina?"
                 }
             ],
             "query": {
@@ -21876,6 +22208,10 @@
                 {
                     "language": "ba",
                     "string": "Филлипинда ниндай профессионал йозойселар тыуган?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué surfistas profesionales nacieron en las Filipinas?"
                 }
             ],
             "query": {
@@ -21941,6 +22277,10 @@
                 {
                     "language": "lt",
                     "string": "Karalienės Viktorijos tėvai?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quiénes eran los padres de la reina Victoria?"
                 }
             ],
             "query": {
@@ -22023,6 +22363,10 @@
                 {
                     "language": "ba",
                     "string": "Америка Ҡушма Штаттарында урта быуат һарайҙары бармы?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Hay castillos en los Estados Unidos?"
                 }
             ],
             "query": {
@@ -22071,6 +22415,10 @@
                 {
                     "language": "lt",
                     "string": "Kokiomis kalbomis kalbama Estijoje?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué idiomas se hablan en Estonia?"
                 }
             ],
             "query": {
@@ -22213,6 +22561,10 @@
                 {
                     "language": "ba",
                     "string": "Юғалыу сигендә торған бөтә ҡоштарҙы атап сығығыҙ."
+                },
+                {
+                    "language": "es",
+                    "question": "Dame una lista de todas las aves en peligro crítico."
                 }
             ],
             "query": {
@@ -22446,6 +22798,10 @@
                 {
                     "language": "ba",
                     "string": "Рейн йылғаһы ниндәй илдәрҙе тоташтыр?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué países están conectados por el Rin?"
                 }
             ],
             "query": {
@@ -22515,6 +22871,10 @@
                 {
                     "language": "ba",
                     "string": "Королева Елизоветаның атаһы кем булған?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién fue el padre de la reina Isabel II?"
                 }
             ],
             "query": {
@@ -22584,6 +22944,10 @@
                 {
                     "language": "ba",
                     "string": "Бөтә химик элементтарҙы атап сығығыҙ"
+                },
+                {
+                    "language": "es",
+                    "question": "Dame todos los elementos químicos."
                 }
             ],
             "query": {
@@ -23384,6 +23748,10 @@
                 {
                     "language": "ba",
                     "string": "Һуңғы 20 йыл эсендәге америка президенттарын һанап сығығыҙ."
+                },
+                {
+                    "language": "es",
+                    "question": "Dame a todos los presidentes americanos de los últimos 20 años."
                 }
             ],
             "query": {
@@ -23437,6 +23805,10 @@
                 {
                     "language": "lt",
                     "string": "Kada bus rodomas filmas “Blogiausias svenarijus” kinoteatrose Niderlanduose?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuándo va a estar la película Peor Caso Escenario en los cines de Holanda?"
                 }
             ],
             "query": {
@@ -23498,6 +23870,10 @@
                 {
                     "language": "ba",
                     "string": "Ланс Басс кемгә өйләнгән?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Con quién se casó Lance Bass?"
                 }
             ],
             "query": {
@@ -23551,6 +23927,10 @@
                 {
                     "language": "lt",
                     "string": "Kuris TUI padalinys aptarnauja ir Glazge, ir Dubline?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué filial de TUI Travel sirve tanto en Glasgow como en Dublín?"
                 }
             ],
             "query": {
@@ -23600,6 +23980,10 @@
                 {
                     "language": "ba",
                     "string": "Пакистанда ниндәй телдә һөйләшә?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué idiomas se hablan en Pakistán?"
                 }
             ],
             "query": {
@@ -23662,6 +24046,10 @@
                 {
                     "language": "lt",
                     "string": "Su kuo ištekėjusi Billo Clintono dukra?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Con quién está casada la hija de Bill Clinton?"
                 }
             ],
             "query": {
@@ -23718,6 +24106,10 @@
                 {
                     "language": "be",
                     "string": "Хто быў у складзе місіі Апалон 11?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién estaba en la misión Apollo 11?"
                 }
             ],
             "query": {
@@ -23797,6 +24189,10 @@
                 {
                     "language": "ba",
                     "string": "Ниндәй төҫкә тулҡын оҙонлоғо Индиго?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es la longitud de onda de Indigo?"
                 }
             ],
             "query": {
@@ -23874,6 +24270,10 @@
                 {
                     "language": "fr",
                     "string": "Donnez-moi toutes les faces B des Ramones."
+                },
+                {
+                    "language": "es",
+                    "question": "Dame todas las caras B de los Ramones."
                 }
             ],
             "query": {
@@ -23927,6 +24327,10 @@
                 {
                     "language": "ba",
                     "string": "Исемең кем \"шам менән Кеше\"?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién se llamaba Caracortada?"
                 }
             ],
             "query": {
@@ -24005,6 +24409,10 @@
                 {
                     "language": "ba",
                     "string": "Төньяҡ диңгеҙгә ҡойоусы йылғалар ниндәй?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué ríos fluyen hacia el Mar del Norte?"
                 }
             ],
             "query": {
@@ -24265,6 +24673,10 @@
                 {
                     "language": "lt",
                     "string": "Kur yra Fort Noksas"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Dónde está Fort Knox?"
                 }
             ],
             "query": {
@@ -24333,6 +24745,10 @@
                 {
                     "language": "lt",
                     "string": "Kuri iš britų grafų dukterų mirė toje pačioje vietoje, kur gimė?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué hijas de condes británicos murieron en el mismo lugar en el que nacieron?"
                 }
             ],
             "query": {
@@ -24449,6 +24865,10 @@
                 {
                     "language": "ba",
                     "string": "Ҡытай императоры ниндәй булды?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántos emperadores tenía China?"
                 }
             ],
             "query": {
@@ -24522,6 +24942,10 @@
                 {
                     "language": "ba",
                     "string": "Черепашка-Ниндзя исемең нисек?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuáles son los nombres de las Tortugas Ninja Mutantes Adolescentes?"
                 }
             ],
             "query": {
@@ -24575,6 +24999,10 @@
                 {
                     "language": "ba",
                     "string": "Пикадилли урамы ҡайҙа башлана?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Por dónde empieza Piccadilly?"
                 }
             ],
             "query": {
@@ -24643,6 +25071,10 @@
                 {
                     "language": "ba",
                     "string": "Университеты тип атала, ҡатыны Обама ҡайҙа уҡырды?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es el nombre de la universidad donde estudió la esposa de Obama?"
                 }
             ],
             "query": {
@@ -24700,6 +25132,10 @@
                 {
                     "language": "be",
                     "string": "Калі была абвешчана незалежнасць Парагвая?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuándo proclamó Paraguay su independencia?"
                 }
             ],
             "query": {
@@ -24757,6 +25193,10 @@
                 {
                     "language": "lt",
                     "string": "Kokio ūgio yra mažiausias aktyvus NBA žaidėjas?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué tan corto es el jugador activo más corto de la NBA?"
                 }
             ],
             "query": {
@@ -24834,6 +25274,10 @@
                 {
                     "language": "fr",
                     "string": "Où est décédé Abraham Lincoln ?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Dónde murió Abraham Lincoln?"
                 }
             ],
             "query": {
@@ -24902,6 +25346,10 @@
                 {
                     "language": "ba",
                     "string": "Компания Jack Wolfskin ҡасан ижад ителгән?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuándo se fundó Jack Wolfskin?"
                 }
             ],
             "query": {
@@ -24959,6 +25407,10 @@
                 {
                     "language": "be",
                     "string": "У якiм горадзе знаходзiцца штаб-кватэра Air China?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿En qué ciudad se encuentra la sede de Air China?"
                 }
             ],
             "query": {
@@ -25019,6 +25471,10 @@
                 {
                     "language": "lt",
                     "string": "Kada buvo įkurta Pilsner Urquell alaus darykla?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es el año de fundación de la cervecería que produce Pilsner Urquell?"
                 }
             ],
             "query": {
@@ -25072,6 +25528,10 @@
                 {
                     "language": "ba",
                     "string": "бостон сэй эсеуе кайсан башланган?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuándo tuvo lugar la fiesta del té de Boston?"
                 }
             ],
             "query": {
@@ -25133,6 +25593,10 @@
                 {
                     "language": "ba",
                     "string": "Кайсы хайуандар югалыу кырында?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué animales están en peligro crítico?"
                 }
             ],
             "query": {
@@ -27435,6 +27899,10 @@
                 {
                     "language": "ba",
                     "string": "кайсы сэясэтселэрсен катындары герман ягыннан?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué políticos estaban casados con un alemán?"
                 }
             ],
             "query": {
@@ -27613,6 +28081,10 @@
                 {
                     "language": "ba",
                     "string": "Ерзен диаметры купме?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué tan grande es el diámetro de la tierra?"
                 }
             ],
             "query": {
@@ -27690,6 +28162,10 @@
                 {
                     "language": "fr",
                     "string": "L'épouse du président Obama s'appelle-t-elle Michelle ?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿La esposa del presidente Obama se llama Michelle?"
                 }
             ],
             "query": {
@@ -27742,6 +28218,10 @@
                 {
                     "language": "ba",
                     "string": "MN аҡш штаттары ҡыҫҡартылған атамаһы ниндәй булған?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué estado estadounidense tiene la abreviatura MN?"
                 }
             ],
             "query": {
@@ -27795,6 +28275,10 @@
                 {
                     "language": "ba",
                     "string": "Мөхәммәт ҡасан вафат була?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuándo murió Muhammad?"
                 }
             ],
             "query": {
@@ -27852,6 +28336,10 @@
                 {
                     "language": "ba",
                     "string": "Айзын атмосферахы нэмэнэн тора?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿De qué se compone la atmósfera de la Luna?"
                 }
             ],
             "query": {
@@ -27959,6 +28447,10 @@
                 {
                     "language": "ba",
                     "string": "Техас губернаторы кем?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién es el gobernador de Texas?"
                 }
             ],
             "query": {
@@ -28030,6 +28522,10 @@
                 {
                     "language": "ba",
                     "string": "Куросава кайхы фильмдарзын режиссеры?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué películas dirigió Kurosawa?"
                 }
             ],
             "query": {
@@ -28280,6 +28776,10 @@
                 {
                     "language": "ba",
                     "string": "Сае-Антонио янында 1836 йылда булған арнаҡлы яу нисек атала?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál fue el nombre de la famosa batalla de 1836 en San Antonio?"
                 }
             ],
             "query": {
@@ -28350,6 +28850,10 @@
                 {
                     "language": "ba",
                     "string": "Мин актер тип аталған телевизион шоу рәсми сайтында \"Зачарованные\""
+                },
+                {
+                    "language": "es",
+                    "question": "Dame los sitios web oficiales de los actores del programa de televisión Charmed."
                 }
             ],
             "query": {
@@ -28403,6 +28907,10 @@
                 {
                     "language": "ba",
                     "string": "Калория багет буламы ни?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántas calorías tiene una baguette?"
                 }
             ],
             "query": {
@@ -28468,6 +28976,10 @@
                 {
                     "language": "ba",
                     "string": "Мин 1400 йыл ойоштороуға тиклем бөтә китапханаһы тип атала."
+                },
+                {
+                    "language": "es",
+                    "question": "Dame todas las bibliotecas establecidas antes de 1400."
                 }
             ],
             "query": {
@@ -28576,6 +29088,10 @@
                 {
                     "language": "ba",
                     "string": "Нидерландыға кергән бөтә Фриз утрауҙарын атап сыҡ миңә "
+                },
+                {
+                    "language": "es",
+                    "question": "Dame todas las islas de Frisia que pertenecen a los Países Bajos."
                 }
             ],
             "query": {
@@ -28640,6 +29156,10 @@
                 {
                     "language": "ba",
                     "string": "Ниндәй музейында ҡуйылған \"Крик\" Мунок?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué museo exhibe The Scream by Munch?"
                 }
             ],
             "query": {
@@ -28710,6 +29230,10 @@
                 {
                     "language": "ba",
                     "string": "Ниндәй йылда нигеҙ компания \"Де Бирс\"?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuándo se fundó la empresa De Beers?"
                 }
             ],
             "query": {
@@ -28775,6 +29299,10 @@
                 {
                     "language": "ba",
                     "string": "Джон Франклина Кеннединың үлеменән һуң кем президент булған?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién se convirtió en presidente después de la muerte de JFK?"
                 }
             ],
             "query": {
@@ -28824,6 +29352,10 @@
                 {
                     "language": "ba",
                     "string": "Хуан Карлос I ҡыҙҙың ата-әсәһе кем булған?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quiénes son los padres de la esposa de Juan Carlos I?"
                 }
             ],
             "query": {
@@ -28877,6 +29409,10 @@
                 {
                     "language": "ba",
                     "string": "Кем әҫәрҙәр авторы була, «боҙ һәм ялҡын йыры»?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién es el novelista de la obra una canción de hielo y fuego?"
                 }
             ],
             "query": {
@@ -28937,6 +29473,10 @@
                 {
                     "language": "ba",
                     "string": "Тәүге альбомын яҙҙырып студияһы Beatles ниндәй?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿En qué estudio grabaron los Beatles su primer álbum?"
                 }
             ],
             "query": {
@@ -28998,6 +29538,10 @@
                 {
                     "language": "ba",
                     "string": "Ниндәй һыра компанияһы штатында урынлашҡан Төньяҡ Рейн-Вестфалия?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué empresas cerveceras se encuentran en North-Rhine Westfalia?"
                 }
             ],
             "query": {
@@ -29084,6 +29628,10 @@
                 {
                     "language": "ba",
                     "string": "Принцесса Диана ҡасан вафат булды?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuándo murió la princesa Diana?"
                 }
             ],
             "query": {
@@ -29137,6 +29685,10 @@
                 {
                     "language": "ba",
                     "string": "Intel кем нигеҙ һалған?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién fundó Intel?"
                 }
             ],
             "query": {
@@ -29203,6 +29755,10 @@
                 {
                     "language": "ba",
                     "string": "Премьер лига иң йәш уйынсы кем булыр?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién es el jugador más joven de la Premier League?"
                 }
             ],
             "query": {
@@ -29275,6 +29831,10 @@
                 {
                     "language": "ba",
                     "string": "Кэт Стивенс ниндәй музыка ҡоралдарын беләһегеҙ?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué instrumentos toca Cat Stevens?"
                 }
             ],
             "query": {
@@ -29337,6 +29897,10 @@
                 {
                     "language": "lt",
                     "string": "Kiek upių ir ežerų yra Pietų Karolinoje?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántos ríos y lagos hay en Carolina del Sur?"
                 }
             ],
             "query": {
@@ -29394,6 +29958,10 @@
                 {
                     "language": "lt",
                     "string": "Kas buvo Rodzila?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Quién se llamaba Rodzilla?"
                 }
             ],
             "query": {
@@ -29439,6 +30007,10 @@
                 {
                     "language": "lt",
                     "string": "Išvardinkite visas Afrikos šalių sostines."
+                },
+                {
+                    "language": "es",
+                    "question": "Dame las capitales de todos los países de África."
                 }
             ],
             "query": {
@@ -29875,6 +30447,10 @@
                 {
                     "language": "lt",
                     "string": "Kurie tiltai yra tokio paties tipo kaip Manheteno tiltas?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué puentes son del mismo tipo que el puente de Manhattan?"
                 }
             ],
             "query": {
@@ -31215,6 +31791,10 @@
                 {
                     "language": "lt",
                     "string": "Kiek įmonių įkūrė „Facebook“ įkūrėjas?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuántas empresas fueron fundadas por el fundador de Facebook?"
                 }
             ],
             "query": {
@@ -31276,6 +31856,10 @@
                 {
                     "language": "lt",
                     "string": "Parodykite man Garndo kanjono pėsčiųjų takus, kuriuose nėra potvynio pavojaus."
+                },
+                {
+                    "language": "es",
+                    "question": "Muéstrame rutas de senderismo en el Gran Cañón donde no hay peligro de inundaciones repentinas."
                 }
             ],
             "query": {
@@ -31338,6 +31922,10 @@
                 {
                     "language": "ba",
                     "string": "Барыһы китап биттәрендә күберәк ниндәй?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Qué libro tiene más páginas?"
                 }
             ],
             "query": {
@@ -31398,6 +31986,10 @@
                 {
                     "language": "ba",
                     "string": "Аҡш штаттары араһында ниндәй - оло?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuál es el estado más grande de los Estados Unidos?"
                 }
             ],
             "query": {
@@ -31450,6 +32042,10 @@
                 {
                     "language": "lt",
                     "string": "Parodykite man įmonių, kuriose dirba daugiau nei 500 000 darbuotojų, svetaines"
+                },
+                {
+                    "language": "es",
+                    "question": "Dame los sitios web de empresas con más de 500000 empleados."
                 }
             ],
             "query": {
@@ -31680,6 +32276,10 @@
                 {
                     "language": "ba",
                     "string": "Колумб өс карабы нисек аталған?"
+                },
+                {
+                    "language": "es",
+                    "question": "¿Cuáles eran los nombres de los tres barcos de Colón?"
                 }
             ],
             "query": {
