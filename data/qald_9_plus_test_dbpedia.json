@@ -45,7 +45,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es la zona horaria de Salt Lake City?"
+                    "string": "¿Cuál es la zona horaria de Salt Lake City?"
                 }
             ],
             "query": {
@@ -109,7 +109,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién mató a César?"
+                    "string": "¿Quién mató a César?"
                 }
             ],
             "query": {
@@ -255,7 +255,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es la montaña más alta de Alemania?"
+                    "string": "¿Cuál es la montaña más alta de Alemania?"
                 }
             ],
             "query": {
@@ -327,7 +327,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué presidentes estadounidenses estuvieron en el cargo durante la guerra de Vietnam?"
+                    "string": "¿Qué presidentes estadounidenses estuvieron en el cargo durante la guerra de Vietnam?"
                 }
             ],
             "query": {
@@ -411,7 +411,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Butch Otter es el gobernador de qué estado de los EE.UU.?"
+                    "string": "Butch Otter es el gobernador de qué estado de los EE.UU.?"
                 }
             ],
             "query": {
@@ -484,7 +484,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántas medallas de oro ganó Michael Phelps en las Olimpiadas de 2008?"
+                    "string": "¿Cuántas medallas de oro ganó Michael Phelps en las Olimpiadas de 2008?"
                 }
             ],
             "query": {
@@ -561,7 +561,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué artistas nacieron en la misma fecha que Rachel Stevens?"
+                    "string": "¿Qué artistas nacieron en la misma fecha que Rachel Stevens?"
                 }
             ],
             "query": {
@@ -653,7 +653,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es la profesión de Frank Herbert?"
+                    "string": "¿Cuál es la profesión de Frank Herbert?"
                 }
             ],
             "query": {
@@ -722,7 +722,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Taiko es algún tipo de instrumento musical japonés?"
+                    "string": "¿Taiko es algún tipo de instrumento musical japonés?"
                 }
             ],
             "query": {
@@ -786,7 +786,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántos asientos tiene el estadio del FC Porto?"
+                    "string": "¿Cuántos asientos tiene el estadio del FC Porto?"
                 }
             ],
             "query": {
@@ -859,7 +859,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué programa de viajero frecuente tiene la mayoría de las aerolíneas?"
+                    "string": "¿Qué programa de viajero frecuente tiene la mayoría de las aerolíneas?"
                 }
             ],
             "query": {
@@ -927,7 +927,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué países europeos tienen una monarquía constitucional?"
+                    "string": "¿Qué países europeos tienen una monarquía constitucional?"
                 }
             ],
             "query": {
@@ -1025,7 +1025,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué países tienen lugares con más de dos cuevas?"
+                    "string": "¿Qué países tienen lugares con más de dos cuevas?"
                 }
             ],
             "query": {
@@ -1349,7 +1349,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué aeropuertos se encuentran en California, EE.UU.?"
+                    "string": "¿Qué aeropuertos se encuentran en California, EE.UU.?"
                 }
             ],
             "query": {
@@ -1935,7 +1935,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuáles son los apodos de San Francisco?"
+                    "string": "¿Cuáles son los apodos de San Francisco?"
                 }
             ],
             "query": {
@@ -2000,7 +2000,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es el nombre de nacimiento de Angela Merkel?"
+                    "string": "¿Cuál es el nombre de nacimiento de Angela Merkel?"
                 }
             ],
             "query": {
@@ -2061,7 +2061,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién es el alcalde de Berlín?"
+                    "string": "¿Quién es el alcalde de Berlín?"
                 }
             ],
             "query": {
@@ -2118,7 +2118,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué países de la Unión Europea adoptaron el euro?"
+                    "string": "¿Qué países de la Unión Europea adoptaron el euro?"
                 }
             ],
             "query": {
@@ -2556,7 +2556,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué software ha sido publicado por Mean Hamster Software?"
+                    "string": "¿Qué software ha sido publicado por Mean Hamster Software?"
                 }
             ],
             "query": {
@@ -2620,7 +2620,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿En qué país nació Bill Gates?"
+                    "string": "¿En qué país nació Bill Gates?"
                 }
             ],
             "query": {
@@ -2684,7 +2684,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántos nietos tenía Jacques Cousteau?"
+                    "string": "¿Cuántos nietos tenía Jacques Cousteau?"
                 }
             ],
             "query": {
@@ -2745,7 +2745,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame a todos los patinetas profesionales de Suecia."
+                    "string": "Dame a todos los patinetas profesionales de Suecia."
                 }
             ],
             "query": {
@@ -2798,7 +2798,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué monarcas del Reino Unido estaban casados con un alemán?"
+                    "string": "¿Qué monarcas del Reino Unido estaban casados con un alemán?"
                 }
             ],
             "query": {
@@ -2851,7 +2851,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame todas las películas argentinas."
+                    "string": "Dame todas las películas argentinas."
                 }
             ],
             "query": {
@@ -13185,7 +13185,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cómo murió Michael Jackson?"
+                    "string": "¿Cómo murió Michael Jackson?"
                 }
             ],
             "query": {
@@ -13250,7 +13250,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué estado de los EE.UU. ha sido admitido más tarde?"
+                    "string": "¿Qué estado de los EE.UU. ha sido admitido más tarde?"
                 }
             ],
             "query": {
@@ -13318,7 +13318,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿A qué clases pertenece el Millepede?"
+                    "string": "¿A qué clases pertenece el Millepede?"
                 }
             ],
             "query": {
@@ -13383,7 +13383,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame la página de Forbes."
+                    "string": "Dame la página de Forbes."
                 }
             ],
             "query": {
@@ -13436,7 +13436,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién es el marido de Amanda Palmer?"
+                    "string": "¿Quién es el marido de Amanda Palmer?"
                 }
             ],
             "query": {
@@ -13501,7 +13501,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién pintó La Tormenta en el Mar de Galilea?"
+                    "string": "¿Quién pintó La Tormenta en el Mar de Galilea?"
                 }
             ],
             "query": {
@@ -13569,7 +13569,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es el lugar más alto de Karakoram?"
+                    "string": "¿Cuál es el lugar más alto de Karakoram?"
                 }
             ],
             "query": {
@@ -13633,7 +13633,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuándo se unió Finlandia a la UE?"
+                    "string": "¿Cuándo se unió Finlandia a la UE?"
                 }
             ],
             "query": {
@@ -13702,7 +13702,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué actores interpretan en Big Bang Theory?"
+                    "string": "¿Qué actores interpretan en Big Bang Theory?"
                 }
             ],
             "query": {
@@ -13836,7 +13836,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué científico informático ganó un Oscar?"
+                    "string": "¿Qué científico informático ganó un Oscar?"
                 }
             ],
             "query": {
@@ -13897,7 +13897,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién escribió Harry Potter?"
+                    "string": "¿Quién escribió Harry Potter?"
                 }
             ],
             "query": {
@@ -13977,7 +13977,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame a todos los escritores que ganaron el Premio Nobel de Literatura."
+                    "string": "Dame a todos los escritores que ganaron el Premio Nobel de Literatura."
                 }
             ],
             "query": {
@@ -14217,7 +14217,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame actores ingleses protagonizados por Lovesick."
+                    "string": "Dame actores ingleses protagonizados por Lovesick."
                 }
             ],
             "query": {
@@ -14299,7 +14299,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es el apodo de Bagdad?"
+                    "string": "¿Cuál es el apodo de Bagdad?"
                 }
             ],
             "query": {
@@ -14376,7 +14376,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿En qué ciudad nació el presidente de Montenegro?"
+                    "string": "¿En qué ciudad nació el presidente de Montenegro?"
                 }
             ],
             "query": {
@@ -14462,7 +14462,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué estado estadounidense tiene la mayor densidad de población?"
+                    "string": "¿Qué estado estadounidense tiene la mayor densidad de población?"
                 }
             ],
             "query": {
@@ -14535,7 +14535,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es el río más largo de China?"
+                    "string": "¿Cuál es el río más largo de China?"
                 }
             ],
             "query": {
@@ -14600,7 +14600,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es el código de área de Berlín?"
+                    "string": "¿Cuál es el código de área de Berlín?"
                 }
             ],
             "query": {
@@ -14676,7 +14676,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántos científicos se graduaron de una universidad de la Ivy League?"
+                    "string": "¿Cuántos científicos se graduaron de una universidad de la Ivy League?"
                 }
             ],
             "query": {
@@ -14745,7 +14745,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué surfistas profesionales nacieron en Australia?"
+                    "string": "¿Qué surfistas profesionales nacieron en Australia?"
                 }
             ],
             "query": {
@@ -14806,7 +14806,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame todas las fiestas holandesas."
+                    "string": "Dame todas las fiestas holandesas."
                 }
             ],
             "query": {
@@ -15008,7 +15008,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántas lunas tiene Marte?"
+                    "string": "¿Cuántas lunas tiene Marte?"
                 }
             ],
             "query": {
@@ -15081,7 +15081,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es el verdadero nombre de Batman?"
+                    "string": "¿Cuál es el verdadero nombre de Batman?"
                 }
             ],
             "query": {
@@ -15142,7 +15142,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Por qué es famoso Elon Musk?"
+                    "string": "¿Por qué es famoso Elon Musk?"
                 }
             ],
             "query": {
@@ -15203,7 +15203,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién es el autor de WikiLeaks?"
+                    "string": "¿Quién es el autor de WikiLeaks?"
                 }
             ],
             "query": {
@@ -15271,7 +15271,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Sean Parnell fue el gobernador de qué estado de los EE.UU.?"
+                    "string": "Sean Parnell fue el gobernador de qué estado de los EE.UU.?"
                 }
             ],
             "query": {
@@ -15340,7 +15340,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántos años se fabricó el Ford Model T?"
+                    "string": "¿Cuántos años se fabricó el Ford Model T?"
                 }
             ],
             "query": {
@@ -15409,7 +15409,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuándo le dispararon a Carlo Giuliani?"
+                    "string": "¿Cuándo le dispararon a Carlo Giuliani?"
                 }
             ],
             "query": {
@@ -15478,7 +15478,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame todos los animales que están extintos."
+                    "string": "Dame todos los animales que están extintos."
                 }
             ],
             "query": {
@@ -17474,7 +17474,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién era la esposa del presidente Lincoln?"
+                    "string": "¿Quién era la esposa del presidente Lincoln?"
                 }
             ],
             "query": {
@@ -17543,7 +17543,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántos premios tiene Bertrand Russell?"
+                    "string": "¿Cuántos premios tiene Bertrand Russell?"
                 }
             ],
             "query": {
@@ -17604,7 +17604,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Pamela Anderson es vegana?"
+                    "string": "¿Pamela Anderson es vegana?"
                 }
             ],
             "query": {
@@ -17656,7 +17656,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué sondas espaciales fueron enviadas a órbita alrededor del sol?"
+                    "string": "¿Qué sondas espaciales fueron enviadas a órbita alrededor del sol?"
                 }
             ],
             "query": {
@@ -17812,7 +17812,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué ciudades alemanas tienen más de 250000 habitantes?"
+                    "string": "¿Qué ciudades alemanas tienen más de 250000 habitantes?"
                 }
             ],
             "query": {
@@ -17894,7 +17894,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Con quién está casada la hija de Robert Kennedy?"
+                    "string": "¿Con quién está casada la hija de Robert Kennedy?"
                 }
             ],
             "query": {
@@ -17988,7 +17988,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántos estudiantes tiene la Universidad Libre de Ámsterdam?"
+                    "string": "¿Cuántos estudiantes tiene la Universidad Libre de Ámsterdam?"
                 }
             ],
             "query": {
@@ -18065,7 +18065,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuáles son los ingresos de IBM?"
+                    "string": "¿Cuáles son los ingresos de IBM?"
                 }
             ],
             "query": {
@@ -18130,7 +18130,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántas películas de James Bond existen?"
+                    "string": "¿Cuántas películas de James Bond existen?"
                 }
             ],
             "query": {
@@ -18191,7 +18191,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién hace la voz de Bart Simpson?"
+                    "string": "¿Quién hace la voz de Bart Simpson?"
                 }
             ],
             "query": {
@@ -18252,7 +18252,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Con quién estaba casado Tom Hanks?"
+                    "string": "¿Con quién estaba casado Tom Hanks?"
                 }
             ],
             "query": {
@@ -18309,7 +18309,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿A través de qué países fluye el río Yenisei?"
+                    "string": "¿A través de qué países fluye el río Yenisei?"
                 }
             ],
             "query": {
@@ -18370,7 +18370,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame todos los coches que se producen en Alemania."
+                    "string": "Dame todos los coches que se producen en Alemania."
                 }
             ],
             "query": {
@@ -19442,7 +19442,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuándo murió Michael Jackson?"
+                    "string": "¿Cuándo murió Michael Jackson?"
                 }
             ],
             "query": {
@@ -19515,7 +19515,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es el volcán más alto de África?"
+                    "string": "¿Cuál es el volcán más alto de África?"
                 }
             ],
             "query": {
@@ -19579,7 +19579,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué poeta escribió más libros?"
+                    "string": "¿Qué poeta escribió más libros?"
                 }
             ],
             "query": {
@@ -19643,7 +19643,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame a todos los gángsteres de la era de la prohibición."
+                    "string": "Dame a todos los gángsteres de la era de la prohibición."
                 }
             ],
             "query": {
@@ -19929,7 +19929,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame todas las naves espaciales que volaron a Marte."
+                    "string": "Dame todas las naves espaciales que volaron a Marte."
                 }
             ],
             "query": {
@@ -20043,7 +20043,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Muéstrame todas las películas checas."
+                    "string": "Muéstrame todas las películas checas."
                 }
             ],
             "query": {
@@ -20527,7 +20527,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame todos los taikonauts."
+                    "string": "Dame todos los taikonauts."
                 }
             ],
             "query": {
@@ -20627,7 +20627,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué países tienen más de diez volcanes?"
+                    "string": "¿Qué países tienen más de diez volcanes?"
                 }
             ],
             "query": {
@@ -20817,7 +20817,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame todas las películas con Tom Cruise."
+                    "string": "Dame todas las películas con Tom Cruise."
                 }
             ],
             "query": {
@@ -21127,7 +21127,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuándo murió el creador de Drácula?"
+                    "string": "¿Cuándo murió el creador de Drácula?"
                 }
             ],
             "query": {
@@ -21196,7 +21196,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién creó Wikipedia en inglés?"
+                    "string": "¿Quién creó Wikipedia en inglés?"
                 }
             ],
             "query": {
@@ -21270,7 +21270,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame a todas las cancilleras alemanas."
+                    "string": "Dame a todas las cancilleras alemanas."
                 }
             ],
             "query": {
@@ -21334,7 +21334,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién es el dueño de Aldi?"
+                    "string": "¿Quién es el dueño de Aldi?"
                 }
             ],
             "query": {
@@ -21399,7 +21399,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué libros fue escrito por Danielle Steel?"
+                    "string": "¿Qué libros fue escrito por Danielle Steel?"
                 }
             ],
             "query": {
@@ -21781,7 +21781,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿A quién influyó Sócrates?"
+                    "string": "¿A quién influyó Sócrates?"
                 }
             ],
             "query": {
@@ -22061,7 +22061,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué tan profundo es el lago Chiemsee?"
+                    "string": "¿Qué tan profundo es el lago Chiemsee?"
                 }
             ],
             "query": {
@@ -22142,7 +22142,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué empresas trabajan tanto en la industria aeroespacial como en la medicina?"
+                    "string": "¿Qué empresas trabajan tanto en la industria aeroespacial como en la medicina?"
                 }
             ],
             "query": {
@@ -22211,7 +22211,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué surfistas profesionales nacieron en las Filipinas?"
+                    "string": "¿Qué surfistas profesionales nacieron en las Filipinas?"
                 }
             ],
             "query": {
@@ -22280,7 +22280,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quiénes eran los padres de la reina Victoria?"
+                    "string": "¿Quiénes eran los padres de la reina Victoria?"
                 }
             ],
             "query": {
@@ -22366,7 +22366,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Hay castillos en los Estados Unidos?"
+                    "string": "¿Hay castillos en los Estados Unidos?"
                 }
             ],
             "query": {
@@ -22418,7 +22418,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué idiomas se hablan en Estonia?"
+                    "string": "¿Qué idiomas se hablan en Estonia?"
                 }
             ],
             "query": {
@@ -22564,7 +22564,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame una lista de todas las aves en peligro crítico."
+                    "string": "Dame una lista de todas las aves en peligro crítico."
                 }
             ],
             "query": {
@@ -22801,7 +22801,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué países están conectados por el Rin?"
+                    "string": "¿Qué países están conectados por el Rin?"
                 }
             ],
             "query": {
@@ -22874,7 +22874,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién fue el padre de la reina Isabel II?"
+                    "string": "¿Quién fue el padre de la reina Isabel II?"
                 }
             ],
             "query": {
@@ -22947,7 +22947,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame todos los elementos químicos."
+                    "string": "Dame todos los elementos químicos."
                 }
             ],
             "query": {
@@ -23751,7 +23751,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame a todos los presidentes americanos de los últimos 20 años."
+                    "string": "Dame a todos los presidentes americanos de los últimos 20 años."
                 }
             ],
             "query": {
@@ -23808,7 +23808,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuándo va a estar la película Peor Caso Escenario en los cines de Holanda?"
+                    "string": "¿Cuándo va a estar la película Peor Caso Escenario en los cines de Holanda?"
                 }
             ],
             "query": {
@@ -23873,7 +23873,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Con quién se casó Lance Bass?"
+                    "string": "¿Con quién se casó Lance Bass?"
                 }
             ],
             "query": {
@@ -23930,7 +23930,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué filial de TUI Travel sirve tanto en Glasgow como en Dublín?"
+                    "string": "¿Qué filial de TUI Travel sirve tanto en Glasgow como en Dublín?"
                 }
             ],
             "query": {
@@ -23983,7 +23983,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué idiomas se hablan en Pakistán?"
+                    "string": "¿Qué idiomas se hablan en Pakistán?"
                 }
             ],
             "query": {
@@ -24049,7 +24049,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Con quién está casada la hija de Bill Clinton?"
+                    "string": "¿Con quién está casada la hija de Bill Clinton?"
                 }
             ],
             "query": {
@@ -24109,7 +24109,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién estaba en la misión Apollo 11?"
+                    "string": "¿Quién estaba en la misión Apollo 11?"
                 }
             ],
             "query": {
@@ -24192,7 +24192,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es la longitud de onda de Indigo?"
+                    "string": "¿Cuál es la longitud de onda de Indigo?"
                 }
             ],
             "query": {
@@ -24273,7 +24273,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame todas las caras B de los Ramones."
+                    "string": "Dame todas las caras B de los Ramones."
                 }
             ],
             "query": {
@@ -24330,7 +24330,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién se llamaba Caracortada?"
+                    "string": "¿Quién se llamaba Caracortada?"
                 }
             ],
             "query": {
@@ -24412,7 +24412,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué ríos fluyen hacia el Mar del Norte?"
+                    "string": "¿Qué ríos fluyen hacia el Mar del Norte?"
                 }
             ],
             "query": {
@@ -24676,7 +24676,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Dónde está Fort Knox?"
+                    "string": "¿Dónde está Fort Knox?"
                 }
             ],
             "query": {
@@ -24748,7 +24748,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué hijas de condes británicos murieron en el mismo lugar en el que nacieron?"
+                    "string": "¿Qué hijas de condes británicos murieron en el mismo lugar en el que nacieron?"
                 }
             ],
             "query": {
@@ -24868,7 +24868,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántos emperadores tenía China?"
+                    "string": "¿Cuántos emperadores tenía China?"
                 }
             ],
             "query": {
@@ -24945,7 +24945,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuáles son los nombres de las Tortugas Ninja Mutantes Adolescentes?"
+                    "string": "¿Cuáles son los nombres de las Tortugas Ninja Mutantes Adolescentes?"
                 }
             ],
             "query": {
@@ -25002,7 +25002,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Por dónde empieza Piccadilly?"
+                    "string": "¿Por dónde empieza Piccadilly?"
                 }
             ],
             "query": {
@@ -25074,7 +25074,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es el nombre de la universidad donde estudió la esposa de Obama?"
+                    "string": "¿Cuál es el nombre de la universidad donde estudió la esposa de Obama?"
                 }
             ],
             "query": {
@@ -25135,7 +25135,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuándo proclamó Paraguay su independencia?"
+                    "string": "¿Cuándo proclamó Paraguay su independencia?"
                 }
             ],
             "query": {
@@ -25196,7 +25196,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué tan corto es el jugador activo más corto de la NBA?"
+                    "string": "¿Qué tan corto es el jugador activo más corto de la NBA?"
                 }
             ],
             "query": {
@@ -25277,7 +25277,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Dónde murió Abraham Lincoln?"
+                    "string": "¿Dónde murió Abraham Lincoln?"
                 }
             ],
             "query": {
@@ -25349,7 +25349,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuándo se fundó Jack Wolfskin?"
+                    "string": "¿Cuándo se fundó Jack Wolfskin?"
                 }
             ],
             "query": {
@@ -25410,7 +25410,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿En qué ciudad se encuentra la sede de Air China?"
+                    "string": "¿En qué ciudad se encuentra la sede de Air China?"
                 }
             ],
             "query": {
@@ -25474,7 +25474,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es el año de fundación de la cervecería que produce Pilsner Urquell?"
+                    "string": "¿Cuál es el año de fundación de la cervecería que produce Pilsner Urquell?"
                 }
             ],
             "query": {
@@ -25531,7 +25531,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuándo tuvo lugar la fiesta del té de Boston?"
+                    "string": "¿Cuándo tuvo lugar la fiesta del té de Boston?"
                 }
             ],
             "query": {
@@ -25596,7 +25596,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué animales están en peligro crítico?"
+                    "string": "¿Qué animales están en peligro crítico?"
                 }
             ],
             "query": {
@@ -27902,7 +27902,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué políticos estaban casados con un alemán?"
+                    "string": "¿Qué políticos estaban casados con un alemán?"
                 }
             ],
             "query": {
@@ -28084,7 +28084,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué tan grande es el diámetro de la tierra?"
+                    "string": "¿Qué tan grande es el diámetro de la tierra?"
                 }
             ],
             "query": {
@@ -28165,7 +28165,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿La esposa del presidente Obama se llama Michelle?"
+                    "string": "¿La esposa del presidente Obama se llama Michelle?"
                 }
             ],
             "query": {
@@ -28221,7 +28221,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué estado estadounidense tiene la abreviatura MN?"
+                    "string": "¿Qué estado estadounidense tiene la abreviatura MN?"
                 }
             ],
             "query": {
@@ -28278,7 +28278,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuándo murió Muhammad?"
+                    "string": "¿Cuándo murió Muhammad?"
                 }
             ],
             "query": {
@@ -28339,7 +28339,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿De qué se compone la atmósfera de la Luna?"
+                    "string": "¿De qué se compone la atmósfera de la Luna?"
                 }
             ],
             "query": {
@@ -28450,7 +28450,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién es el gobernador de Texas?"
+                    "string": "¿Quién es el gobernador de Texas?"
                 }
             ],
             "query": {
@@ -28525,7 +28525,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué películas dirigió Kurosawa?"
+                    "string": "¿Qué películas dirigió Kurosawa?"
                 }
             ],
             "query": {
@@ -28779,7 +28779,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál fue el nombre de la famosa batalla de 1836 en San Antonio?"
+                    "string": "¿Cuál fue el nombre de la famosa batalla de 1836 en San Antonio?"
                 }
             ],
             "query": {
@@ -28853,7 +28853,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame los sitios web oficiales de los actores del programa de televisión Charmed."
+                    "string": "Dame los sitios web oficiales de los actores del programa de televisión Charmed."
                 }
             ],
             "query": {
@@ -28910,7 +28910,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántas calorías tiene una baguette?"
+                    "string": "¿Cuántas calorías tiene una baguette?"
                 }
             ],
             "query": {
@@ -28979,7 +28979,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame todas las bibliotecas establecidas antes de 1400."
+                    "string": "Dame todas las bibliotecas establecidas antes de 1400."
                 }
             ],
             "query": {
@@ -29091,7 +29091,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame todas las islas de Frisia que pertenecen a los Países Bajos."
+                    "string": "Dame todas las islas de Frisia que pertenecen a los Países Bajos."
                 }
             ],
             "query": {
@@ -29159,7 +29159,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué museo exhibe The Scream by Munch?"
+                    "string": "¿Qué museo exhibe The Scream by Munch?"
                 }
             ],
             "query": {
@@ -29233,7 +29233,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuándo se fundó la empresa De Beers?"
+                    "string": "¿Cuándo se fundó la empresa De Beers?"
                 }
             ],
             "query": {
@@ -29302,7 +29302,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién se convirtió en presidente después de la muerte de JFK?"
+                    "string": "¿Quién se convirtió en presidente después de la muerte de JFK?"
                 }
             ],
             "query": {
@@ -29355,7 +29355,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quiénes son los padres de la esposa de Juan Carlos I?"
+                    "string": "¿Quiénes son los padres de la esposa de Juan Carlos I?"
                 }
             ],
             "query": {
@@ -29412,7 +29412,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién es el novelista de la obra una canción de hielo y fuego?"
+                    "string": "¿Quién es el novelista de la obra una canción de hielo y fuego?"
                 }
             ],
             "query": {
@@ -29476,7 +29476,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿En qué estudio grabaron los Beatles su primer álbum?"
+                    "string": "¿En qué estudio grabaron los Beatles su primer álbum?"
                 }
             ],
             "query": {
@@ -29541,7 +29541,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué empresas cerveceras se encuentran en North-Rhine Westfalia?"
+                    "string": "¿Qué empresas cerveceras se encuentran en North-Rhine Westfalia?"
                 }
             ],
             "query": {
@@ -29631,7 +29631,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuándo murió la princesa Diana?"
+                    "string": "¿Cuándo murió la princesa Diana?"
                 }
             ],
             "query": {
@@ -29688,7 +29688,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién fundó Intel?"
+                    "string": "¿Quién fundó Intel?"
                 }
             ],
             "query": {
@@ -29758,7 +29758,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién es el jugador más joven de la Premier League?"
+                    "string": "¿Quién es el jugador más joven de la Premier League?"
                 }
             ],
             "query": {
@@ -29834,7 +29834,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué instrumentos toca Cat Stevens?"
+                    "string": "¿Qué instrumentos toca Cat Stevens?"
                 }
             ],
             "query": {
@@ -29900,7 +29900,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántos ríos y lagos hay en Carolina del Sur?"
+                    "string": "¿Cuántos ríos y lagos hay en Carolina del Sur?"
                 }
             ],
             "query": {
@@ -29961,7 +29961,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Quién se llamaba Rodzilla?"
+                    "string": "¿Quién se llamaba Rodzilla?"
                 }
             ],
             "query": {
@@ -30010,7 +30010,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame las capitales de todos los países de África."
+                    "string": "Dame las capitales de todos los países de África."
                 }
             ],
             "query": {
@@ -30450,7 +30450,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué puentes son del mismo tipo que el puente de Manhattan?"
+                    "string": "¿Qué puentes son del mismo tipo que el puente de Manhattan?"
                 }
             ],
             "query": {
@@ -31794,7 +31794,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuántas empresas fueron fundadas por el fundador de Facebook?"
+                    "string": "¿Cuántas empresas fueron fundadas por el fundador de Facebook?"
                 }
             ],
             "query": {
@@ -31859,7 +31859,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Muéstrame rutas de senderismo en el Gran Cañón donde no hay peligro de inundaciones repentinas."
+                    "string": "Muéstrame rutas de senderismo en el Gran Cañón donde no hay peligro de inundaciones repentinas."
                 }
             ],
             "query": {
@@ -31925,7 +31925,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Qué libro tiene más páginas?"
+                    "string": "¿Qué libro tiene más páginas?"
                 }
             ],
             "query": {
@@ -31989,7 +31989,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuál es el estado más grande de los Estados Unidos?"
+                    "string": "¿Cuál es el estado más grande de los Estados Unidos?"
                 }
             ],
             "query": {
@@ -32045,7 +32045,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "Dame los sitios web de empresas con más de 500000 empleados."
+                    "string": "Dame los sitios web de empresas con más de 500000 empleados."
                 }
             ],
             "query": {
@@ -32279,7 +32279,7 @@
                 },
                 {
                     "language": "es",
-                    "question": "¿Cuáles eran los nombres de los tres barcos de Colón?"
+                    "string": "¿Cuáles eran los nombres de los tres barcos de Colón?"
                 }
             ],
             "query": {
